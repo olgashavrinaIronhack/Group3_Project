@@ -53,3 +53,8 @@ File structure is really simple, plain and easy to check on each file.
 [Slides](https://docs.google.com/presentation/d/1URx67dW-Df-5uWFMDNtMKCzR4pYUKsgWsPIDMw69yQE/edit#slide=id.g1060205695d_0_20)  
 [Jira](https://ironhack.atlassian.net/jira/software/projects/RRG/boards/7)  
 [Background Music](https://www.youtube.com/watch?v=ZQ2nCGawrSY&ab_channel=RihannaVEVO)
+
+![image](https://user-images.githubusercontent.com/93996718/144757085-c2ab5998-3737-4c6e-8fb9-026c06ae35f0.png)
+![image](https://user-images.githubusercontent.com/93996718/144757090-4ed00c7a-66fd-495d-a8f6-e8dfd3fed8a0.png)
+
+
