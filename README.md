@@ -13,22 +13,48 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+It's a dangerous and lethal game! Our Russian group member is very attracted to this game! <br />
+Moreover, the logoc of the game is very clear and we could apply what we've learnt from week 1 to develop the game.
 
 ## Rules
-Briefly describe the rules of the game.
+2 to 6 players, 6 shots, 1 bullet <br />
+Players fire round by round <br />
+The one who takes a bullet => dies, game over <br />
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+### Preparation & Planning
+Define game rules with a flowchart mockup<br />
+Plan the project<br />
+Assign tasks on Jira<br />
+
+### Sprints
+Develop a MVP<br />
+Test and learn : improve the MVP and develop the whole program<br />
+Final test for code validation<br />
+Comment the entire code<br />
+Refine flow chart, develop the presentation<br />
+Develop README file<br />
+
+### Finalisation & Deliverables
+Generate repo on Github, push code to repo<br />
+Rehearsal of presentation<br />
+Upload all the deliverables<br />
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+Jira: assign work & check progress<br />
+Slack: in-time communication<br />
+Google Slides: work together for the presentation<br />
+Github: version control of files, submit to TA<br />
+File structure is really simple, plain and easy to check on each file.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/CarrieZijing/Group3_Project)  
+[Slides](https://docs.google.com/presentation/d/1URx67dW-Df-5uWFMDNtMKCzR4pYUKsgWsPIDMw69yQE/edit#slide=id.g1060205695d_0_20)  
+[Jira](https://ironhack.atlassian.net/jira/software/projects/RRG/boards/7)  
+[Background Music](https://www.youtube.com/watch?v=ZQ2nCGawrSY&ab_channel=RihannaVEVO)
+
+![image](https://user-images.githubusercontent.com/93996718/144757085-c2ab5998-3737-4c6e-8fb9-026c06ae35f0.png)
+![image](https://user-images.githubusercontent.com/93996718/144757090-4ed00c7a-66fd-495d-a8f6-e8dfd3fed8a0.png)
+
+
